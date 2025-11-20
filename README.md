@@ -23,7 +23,7 @@ sudo apt install ros-noetic-rtabmap-ros
 ### Installation
 Clone this repository into your catkin workspace.
 ```sh
-git clone https://github.com/tellsiddh/ros-multirobot-search-rescue.git
+git clone https://github.com/Tabsheer/ros-multirobot-search-rescue.git
 ```
 Compile your catkin workspace.
 ```sh
